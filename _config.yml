@@ -1,0 +1,28 @@
+name: BIGWAYASIA
+favicon: null
+layout_spectrum: 0.6113474371377379
+typography_spectrum: 0.08931866963393986
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.12646846496500075
+  lightness: 0.9170045924838632
+  saturation: 0.23350423481315374
+  rhythmicContrast: 0.8182713245041668
+purpose: []
